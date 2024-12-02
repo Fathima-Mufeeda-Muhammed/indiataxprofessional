@@ -169,7 +169,7 @@ const Contact = () => {
 
       <div className="container mx-auto px-6 py-12">
         <h3 className="text-3xl font-bold text-center mb-3 font-serif">
-          Visit Us on the Map
+          Explore Our Location on the Map
         </h3>
         <div className="w-full h-96">
           <iframe
